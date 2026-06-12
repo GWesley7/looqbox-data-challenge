@@ -23,6 +23,6 @@ Solução desenvolvida para o desafio técnico da Looqbox.
 - Looqbox_Challenge_Gabriel_Wesley.pdf
 - Looqbox_Challenge_Final_Gabriel_Wesley.ipynb
 
-## Autor
+## Entrega Final
 
-Gabriel Wesley Ramos de Souza
+Desenvolvido por Gabriel Wesley para o desafio técnico da Looqbox.
